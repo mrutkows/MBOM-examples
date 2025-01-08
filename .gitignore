@@ -1,0 +1,9 @@
+
+# MacOS artifacts
+.DS_Store
+
+# ignore PowerPoint temp files
+~*.pptx
+
+# ignore executables from examples
+hello
